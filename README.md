@@ -1,6 +1,6 @@
 # random_riverpod
 
-A new Flutter project.
+A flutter_riverpod example to generate random number, based on the Official counter example & riverpod random example.
 
 ## Getting Started
 
